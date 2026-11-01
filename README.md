@@ -1,4 +1,4 @@
-# Hi, I'm Tofique Ahmed 👋
+# Hi, I'm Tofeeque Ahmed 👋
 
 Aspiring Software Developer
 
