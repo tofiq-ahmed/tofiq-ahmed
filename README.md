@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tofique Ahmed 👋
 
-<!--
-**tofiq-ahmed/tofiq-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer
 
-Here are some ideas to get you started:
+## 💻 Skills & Technologies
+- C++
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- JavaScript APIs
+- Data Structures & Algorithms
+- Frontend Development
+
+## 🎯 Goals
+
+Building projects and improving my programming skills.
